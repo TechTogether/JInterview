@@ -12,7 +12,7 @@ import we.techtogether.jinterview.topic.corejava.immutability.Address;
 
 
 public class MySerializationClassTest{
-
+ 
 	public static void main(String[] args) {
 
 		
